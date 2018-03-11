@@ -19,7 +19,7 @@ Sheep counter updates when one sheep crosses the dream bubble boundary:
 
 Sheep Movement - Follows a parabolic motion. Sprite sheet is created with Piskel.
 
-![alt text](SheepPiskel Walk.png "Sheep Walking Animation")
+![alt text](SheepPiskel.png "Sheep Walking Animation")
 
 ### Credits
 The main bulk of my algorithim is inspired by . All credits are to him. 
